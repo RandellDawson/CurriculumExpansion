@@ -52,7 +52,7 @@ section {
   font-size: 0;
 }
 
-p {
+.item p {
   display: inline-block;
   margin-top: 5px;
   margin-bottom: 5px;
