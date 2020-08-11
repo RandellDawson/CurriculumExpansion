@@ -57,10 +57,14 @@ p {
   margin-top: 5px;
   margin-bottom: 5px;
   font-size: 18px;
-  width: 50%;
+}
+
+.name {
+  width: 70%;
 }
 
 .price {
+  width: 30%;
   text-align: right;
 }
 
