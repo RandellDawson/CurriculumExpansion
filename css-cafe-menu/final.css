@@ -48,10 +48,6 @@ section {
   margin: 20px 0;
 }
 
-.item {
-  font-size: 0;
-}
-
 .item p {
   display: inline-block;
   margin-top: 5px;
@@ -60,11 +56,11 @@ section {
 }
 
 .name {
-  width: 70%;
+  width: 69%;
 }
 
 .price {
-  width: 30%;
+  width: 29%;
   text-align: right;
 }
 
